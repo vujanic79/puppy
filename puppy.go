@@ -11,3 +11,7 @@ func Bark() string {
 func Barks() string {
 	return dog.WhenGrownUp("Woof! Woof! Woof!")
 }
+
+func From11() string {
+	return "Hello, I'm from version 1.0.0"
+}
