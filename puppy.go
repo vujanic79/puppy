@@ -1,3 +1,4 @@
+// Package puppy provides greeting functions.
 package puppy
 
 func Bark() string {
